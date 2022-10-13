@@ -1,0 +1,9 @@
+stamp=0;
+print(stamp);
+stamp=stamp+4;
+print(stamp);
+if stamp > 0:
+    print('hello bro welcome to python');
+spam = "spam " * stamp;
+print(spam);
+
