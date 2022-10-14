@@ -1,0 +1,8 @@
+height=195;
+height_in_meter=height/100;
+print(height_in_meter);
+print(min(5,6,4));
+print(max(9,5,7));
+print(abs(-32));
+print(float(10));
+print(int(3.35))
